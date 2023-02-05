@@ -42,6 +42,7 @@ const Wrapper = styled.div`
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 1rem;
   }
   .cand-header {
     font-weight: 400;
@@ -141,6 +142,10 @@ const Home = () => {
           />
         ))}
       </div>
+      <hr style={{ width: "80%" }} />
+      <h6 className="cand-header" style={{ margin: "0" }}>
+        Built by Dev Chuks 👨‍🦼
+      </h6>
     </Wrapper>
   );
 };
