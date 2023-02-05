@@ -68,7 +68,7 @@ const Home = () => {
     },
     {
       name: "Bola Tinubu",
-      logo: "https://assets.stickpng.com/images/627bd43fd92847c00d46be39.png",
+      logo: "https://media.premiumtimesng.com/wp-content/files/2013/03/Screen-shot-2013-03-05-at-10.52.04-PM.png",
       image:
         "https://upload.wikimedia.org/wikipedia/commons/6/61/Asiwaju_Bola_Ahmed_Tinubu_%285980497975%29.jpg",
       party: "All Progressive Congress",
